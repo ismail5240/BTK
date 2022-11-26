@@ -1,4 +1,4 @@
-package DosyalarlaÇalışmak;
+package Dosyalarla_Çalışmak;
 
 import java.io.File;
 import java.io.IOException;
