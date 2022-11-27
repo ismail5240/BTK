@@ -1,6 +1,6 @@
-package Dizierle_Çalışmak;
+package Btk3_Dizierle_Çalışmak;
 
-public class ReCapp {
+public class C02_Örnek {
     public static void main(String[] args) {
 
         double[] myList = {1.2, 5.6, 3.4, 6.3};

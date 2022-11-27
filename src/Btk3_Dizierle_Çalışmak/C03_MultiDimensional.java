@@ -1,6 +1,6 @@
-package Dizierle_Çalışmak;
+package Btk3_Dizierle_Çalışmak;
 
-public class MultiDimensional {
+public class C03_MultiDimensional {
 
     public static void main(String[] args) {
 

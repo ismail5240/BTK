@@ -1,6 +1,6 @@
-package Döngülerle_Çalışmak;
+package Btk2_Döngülerle_Çalışmak;
 
-public class For_Döngüsü {
+public class C01_For_Döngüsü {
     public static void main(String[] args) {
 
         for (int i = 0; i <10; i++){

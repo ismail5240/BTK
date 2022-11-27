@@ -1,6 +1,6 @@
-package Dizierle_Çalışmak;
+package Btk3_Dizierle_Çalışmak;
 
-public class Dizilerle_Çalışmak {
+public class C01_Dizilerle_Çalışmak {
     public static void main(String[] args) {
 
                  // Amele kod

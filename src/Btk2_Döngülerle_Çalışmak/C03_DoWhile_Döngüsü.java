@@ -1,6 +1,6 @@
-package Döngülerle_Çalışmak;
+package Btk2_Döngülerle_Çalışmak;
 
-public class DoWhile_Döngüsü {
+public class C03_DoWhile_Döngüsü {
     public static void main(String[] args) {
 
         int i = 1;

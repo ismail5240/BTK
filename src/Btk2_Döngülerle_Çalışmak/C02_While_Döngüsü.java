@@ -1,6 +1,6 @@
-package Döngülerle_Çalışmak;
+package Btk2_Döngülerle_Çalışmak;
 
-public class While_Döngüsü {
+public class C02_While_Döngüsü {
     public static void main(String[] args) {
 
         int i = 1;
