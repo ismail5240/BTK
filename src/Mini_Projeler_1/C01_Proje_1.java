@@ -3,6 +3,8 @@ package Mini_Projeler_1;
 public class C01_Proje_1 {
     public static void main(String[] args) {
 
+        //Task : Asal mı ?
+
         int sayi = 1;
 
         boolean asal = true;
